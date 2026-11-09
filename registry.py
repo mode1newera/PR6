@@ -68,3 +68,5 @@ class Registry:
 
     def __len__(self):
         return len(self.accepted)
+    def __iter__(self):
+        return iter(self.accepted)
