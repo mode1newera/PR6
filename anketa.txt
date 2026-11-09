@@ -1,0 +1,14 @@
+s;  иванов   иВАН петрович ;IvAnov@Example.Com ; +7 (921) 111-22-33 ; 09 С 41
+t;петров пётр сергеевич;petrov@example.com;89217654321;Кафедра И9
+s;петрова анна;petrova@example.com;89212223344;09с41
+
+s;сидоров;sidorov@example.com;+79210000000;09с42
+s;кузнецов павел;kuznetsov.example.com;+79211234567;09с42
+t;смирнова ольга;smirnova@example.com;+7921123;Кафедра И4
+s;волков денис;volkov@example.com;+79219998877
+x;непонятный тип;a@example.com;89211112233;что-то
+t;орлов игорь;orlov@example.com;89219990011;
+s;морозова екатерина игоревна;morozova@example.com;89215554433;09с43
+t;соколова мария;marija@example.com;79212223355;Кафедра И4
+s;фёдоров алексей;fedorov@example.com;79210001122;09с41
+s;егорова ирина;egorova@.example.com;79210003344;09с42
